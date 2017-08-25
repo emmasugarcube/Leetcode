@@ -1,4 +1,7 @@
-class Solution {
+import TreeNode.class
+
+
+public static class Solution {
     public List<String> binaryTreePaths(TreeNode root) {
         List<String> paths = new ArrayList<String>();
         
